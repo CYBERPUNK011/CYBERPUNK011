@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CYBERPUNK011. I am from Papua New Guinea which is a small Island Nation in the Pacific
+- 👋 Hi, I’m @CYBERPUNK011. I am 22yrs old and I am from Papua New Guinea which is a small Island Nation in the Pacific. I recently started working as a Software Programmer/Developer.
 - 👀 I’m interested in ...software programming and development
 - 🌱 I’m currently learning ...oracle apex
 - 💞️ I’m looking to collaborate on ... here
