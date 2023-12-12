@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CYBERPUNK011. I am from Papua New Guinea an Island Nation in the Pacific
+- 👋 Hi, I’m @CYBERPUNK011. I am from Papua New Guinea which is a small Island Nation in the Pacific
 - 👀 I’m interested in ...software programming and development
 - 🌱 I’m currently learning ...oracle apex
-- 💞️ I’m looking to collaborate on ... 
+- 💞️ I’m looking to collaborate on ... here
 - 📫 How to reach me ... my gmail - davenauka09@gmail.com / my facebook - Username:Daven Auka
 
 <!---
